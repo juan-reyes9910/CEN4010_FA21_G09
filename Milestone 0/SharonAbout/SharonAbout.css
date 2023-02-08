@@ -1,0 +1,54 @@
+body {
+    background-image: linear-gradient(to bottom, black 8%, rgb(49, 49, 49) 90%);
+    text-align: center;
+}
+
+h2 {
+    font-size: 50px;
+    color: white;
+}
+
+p {
+    color: white;
+    font-size: 20px;
+}
+
+.profile-pic {
+    text-align: center;
+    padding: 0px;
+    border-radius: 50%;
+    width: 150px;
+}
+
+.card {
+    background: white;
+    width: 500px;
+    display:inline-block;
+}
+
+.animation {
+    width: inherit;
+}
+
+.container {
+    padding: 2px 16px;
+    background-color: gray;
+    color: white;
+    text-align: center;
+}
+
+.container h4 {
+    font-size: 30px;
+    border: none;
+    width: inherit;
+    background-color: transparent;
+}
+
+.container p {
+    font-size: 20px;
+}
+
+.projects_link {
+    text-decoration: none;
+    color: rgb(0, 89, 255);
+}
